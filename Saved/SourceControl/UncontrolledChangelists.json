@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Noe travail/Documents/GitHub/Capstone3/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Noe travail/Documents/GitHub/Capstone3/Content/Map/Menu/LV_Menu.umap",
+				"C:/Users/Noe travail/Documents/GitHub/Capstone3/Content/Oni_Project/Levels/Demo.umap",
 				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Content/Oni_Project/Levels/Demo.umap",
 				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Content/__ExternalActors__/Map/MapTest/9/8M/1VLDUR0W4IZ5AZRNDOX05W.uasset",
@@ -33,7 +36,6 @@
 				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Content/__ExternalObjects__/Map/MapTest/B/LH/UOKPU83O9E41ZNACE8OA3D.uasset",
 				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Content/__ExternalObjects__/Map/MapTest/E/CN/ELZB4LQ3XM9JU0O98WR2UH.uasset",
 				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Content/Map/MapTest.umap",
-				"C:/Users/Noe travail/Documents/GitHub/Capstone3/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Capstone3/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
 				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Capstone3/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Capstone3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
