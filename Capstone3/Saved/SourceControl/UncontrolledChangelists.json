@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Capstone3/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset",
+				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Capstone3/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Capstone3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
