@@ -73,6 +73,12 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+# Intermediate
+Intermediate/*
+
+# Saved
+Saved/*
+
 # All assets
 Windows/*
 Intermediate/CachedAssetRegistry_0.bin
