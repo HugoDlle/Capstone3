@@ -73,37 +73,5 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# Intermediate
-Intermediate/*
-
-# Saved
-Saved/*
-
 # All assets
 Windows/*
-Intermediate/CachedAssetRegistry_0.bin
-Saved/Config/MacEditor/Engine.ini
-Saved/Config/MacEditor/EditorPerProjectUserSettings.ini
-Saved/AutoScreenshot.png
-Saved/Autosaves/PackageRestoreData.json
-Intermediate/CachedAssetRegistry_0.bin
-Saved/Config/MacEditor/Engine.ini
-Saved/Config/MacEditor/EditorPerProjectUserSettings.ini
-Saved/AutoScreenshot.png
-Saved/Autosaves/PackageRestoreData.json
-Intermediate/CachedAssetRegistry_0.bin
-Intermediate/CachedAssetRegistry_0.bin
-Saved/Autosaves/PackageRestoreData.json
-Saved/Config/MacEditor/Editor.ini
-Saved/Config/MacEditor/EditorPerProjectUserSettings.ini
-Saved/Config/MacEditor/Game.ini
-Saved/SourceControl/UncontrolledChangelists.json
-Saved/AutoScreenshot.png
-Intermediate/CachedAssetRegistry_0.bin
-Intermediate/CachedAssetRegistry_0.bin
-Saved/Autosaves/PackageRestoreData.json
-Saved/AutoScreenshot.png
-Saved/Config/CrashReportClient/UECC-Mac-04758B699C48AE4B43754FAC6F10F2B5/CrashReportClient.ini
-Saved/Config/CrashReportClient/UECC-Mac-AFB799BC9C40E44A24516DAD5E1DAA44/CrashReportClient.ini
-Saved/Config/MacEditor/EditorPerProjectUserSettings.ini
-Saved/SourceControl/UncontrolledChangelists.json
