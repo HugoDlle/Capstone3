@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/benja/OneDrive/Documents/GitHub/Capstone3/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/benja/OneDrive/Documents/GitHub/Capstone3/Content/Player/Input/IMC_Default.uasset",
+				"C:/Users/benja/OneDrive/Documents/GitHub/Capstone3/Content/Player/Input/Actions/IA_Move.uasset",
 				"C:/Users/Noe travail/Documents/GitHub/Capstone3/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/Noe travail/Documents/GitHub/Capstone3/Content/Map/Menu/LV_Menu.umap",
 				"C:/Users/Noe travail/Documents/GitHub/Capstone3/Content/Oni_Project/Levels/Demo.umap",
@@ -105,7 +108,6 @@
 				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Content/ThirdPerson/Input/Actions/IA_Move.uasset",
 				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
 				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Content/ThirdPerson/Maps/ThirdPersonMap_BuiltData.uasset",
-				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Content/Movies/Deadly.uasset",
 				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Content/Map/Menu/CameraHUD.uasset",
 				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Content/Map/Menu/WBP_MenuHUD.uasset",
 				"/Users/hugodelille/Documents/Unreal Projects/Capstone3/Content/Map/Menu/Deadly.uasset",
